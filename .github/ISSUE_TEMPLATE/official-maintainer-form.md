@@ -42,6 +42,11 @@ Insert here
 No
 ```
 
+## Do you build locally or rely on server if so what cloud service provider do you use ?
+```
+Insert here
+```
+
 ## List of changes/patches applied to source, if any
 ```
 No
