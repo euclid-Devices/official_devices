@@ -1,0 +1,13 @@
+{
+    "devices": [
+        {
+            "codename": "whyred",
+            "codename_alt": "",
+            "vendor": "Xiaomi",
+            "model": "Redmi Note 5 Pro",
+            "maintainer_name": "whyred_404",
+            "frame": null,
+            "active": true
+        },
+    ]
+}
