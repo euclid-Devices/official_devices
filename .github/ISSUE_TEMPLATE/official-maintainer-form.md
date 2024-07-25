@@ -2,7 +2,7 @@
 name: Official maintainer form
 about: Apply to become an Official maintainer for EuclidOS
 title: New maintainer
-assignees: [ Roxor-007 , Arijit78, kssrao13882]
+assignees: [ Roxor-007 , Arijit78]
 ---
 
 <!--
