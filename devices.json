@@ -4,60 +4,60 @@
             "device_name": "Motorola Moto G84",
             "vendor": "Motorola",
             "codename": "bangkk",
-            "maintainer": "Kaveer",
-            "maintainer_telegram": "t.me/KaveerRana",
-            "maintainer_github": "github.com/Kaveer2009",
-            "support_group": "t.me/KaveerRomFactorySupport",
-            "active": true
+            "maintainer": "Aryan",
+            "maintainer_telegram": "https://t.me/CuriousNom",
+            "maintainer_github": "",
+            "support_group": "",
+            "active": false
         },
         {
             "device_name": "Motorola Moto G34/G45 5G",
             "vendor": "Motorola",
             "codename": "fogos",
-            "maintainer": "Kaveer",
-            "maintainer_telegram": "t.me/KaveerRana",
-            "maintainer_github": "github.com/Kaveer2009",
-            "support_group": "t.me/KaveerRomFactorySupport",
-            "active": true
+            "maintainer": "Tridev",
+            "maintainer_telegram": "https://t.me/TRIDEV099",
+            "maintainer_github": "",
+            "support_group": "",
+            "active": false
         },
         {
             "device_name": "Xiaomi Redmi Note 13 Pro 5G / POCO X6 5G",
             "vendor": "Xiaomi",
             "codename": "garnet",
-            "maintainer": "Kaveer",
-            "maintainer_telegram": "t.me/KaveerRana",
-            "maintainer_github": "github.com/Kaveer2009",
-            "support_group": "t.me/KaveerRomFactorySupport",
+            "maintainer": "Heydr",
+            "maintainer_telegram": "https://t.me/ZylhdrXP",
+            "maintainer_github": "",
+            "support_group": "",
             "active": false
         },
         {
             "device_name": "OnePlus 9",
             "vendor": "OnePlus",
             "codename": "lemonade",
-            "maintainer": "Kaveer",
-            "maintainer_telegram": "t.me/KaveerRana",
-            "maintainer_github": "github.com/Kaveer2009",
-            "support_group": "t.me/KaveerRomFactorySupport",
-            "active": true
+            "maintainer": "Mrick343",
+            "maintainer_telegram": "t.me/Mrick343",
+            "maintainer_github": "github.com/Mrick343",
+            "support_group": "",
+            "active": false
         },
         {
             "device_name": "OnePlus 9 Pro",
             "vendor": "OnePlus",
             "codename": "lemonadep",
-            "maintainer": "Kaveer",
-            "maintainer_telegram": "t.me/KaveerRana",
-            "maintainer_github": "github.com/Kaveer2009",
-            "support_group": "t.me/KaveerRomFactorySupport",
-            "active": true
+            "maintainer": "Mrick343",
+            "maintainer_telegram": "t.me/Mrick343",
+            "maintainer_github": "github.com/Mrick343",
+            "support_group": "",
+            "active": false
         },
         {
             "device_name": "POCO F4",
             "vendor": "POCO",
             "codename": "munch",
-            "maintainer": "Kaveer",
-            "maintainer_telegram": "t.me/KaveerRana",
-            "maintainer_github": "github.com/Kaveer2009",
-            "support_group": "t.me/KaveerRomFactorySupport",
+            "maintainer": "Mrick343",
+            "maintainer_telegram": "t.me/Mrick343",
+            "maintainer_github": "github.com/Mrick343",
+            "support_group": "",
             "active": false
         },
         {
